@@ -91,7 +91,7 @@ if (initCheck()) {
         '<div id="rightMenu"></div>';
 
     window.cnblogsConfigDefault = {
-        GhUserName: 'BNDong',
+        GhUserName: 'Cr1m3rA',
         GhRepositories: 'Cnblogs-Theme-SimpleMemory',
         GhVersions: 'v1.3.0',
         CnVersions: "",
@@ -103,7 +103,7 @@ if (initCheck()) {
         menuUserInfoBgImg: '',
         webpageTitleOnblur: "(oﾟvﾟ)ノ Hi",
         webpageTitleOnblurTimeOut: 500,
-        webpageTitleFocus: "(*´∇｀*) 欢迎回来！",
+        webpageTitleFocus: "",
         webpageTitleFocusTimeOut: 1000,
         webpageIcon: "",
         fontIconExtend: "",
@@ -174,12 +174,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
+            "https://codeaoss.oss-cn-beijing.aliyuncs.com/Konachan.com%20-%20278224%20aqua_eyes%20blush%20choker%20computer%20hat%20kneehighs%20long_hair%20original%20orihi_chihiro%20skirt%20thighhighs%20twintails%20watermark%20white_hair.jpg"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
+            "https://codeaoss.oss-cn-beijing.aliyuncs.com/Konachan.com%20-%20278224%20aqua_eyes%20blush%20choker%20computer%20hat%20kneehighs%20long_hair%20original%20orihi_chihiro%20skirt%20thighhighs%20twintails%20watermark%20white_hair.jpg"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
